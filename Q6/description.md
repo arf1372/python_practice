@@ -1,4 +1,4 @@
-**why the `fastPalindromic` works fast?**
+# why the `fastPalindromic` works fast?
 the idea is to multiply the bigger numbers initially and the first palindromic number is the answer.
 imagine a matrix:
 
@@ -15,7 +15,8 @@ imagine a matrix:
 the numbers shows the loops order execution.<br>
 for instance in number nine the code will evaluate `998*997`.
 
-**How to surf the matrix in described order?**
+# How to surf the matrix in described order?
 we have a `currentLocation` variable that indicates one of the matrix cells location.<br>
 in each loop `currentLocation` moves by `step`.
+
 ![stepDiagram](stepDiagram.png)

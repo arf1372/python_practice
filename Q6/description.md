@@ -20,3 +20,9 @@ we have a `currentLocation` variable that indicates one of the matrix cells loca
 in each loop `currentLocation` moves by `step`.
 
 ![stepDiagram](stepDiagram.png)
+
+# Speed test for 5 digit numbers
+
+![SpeedTest](speedTest.png)
+
+**this code is tested in google colab**

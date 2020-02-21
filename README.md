@@ -1,7 +1,7 @@
 # Practice Python
 
-in this repository i will post a question once in a while.
+This repository contains problems proposed in the ["Python Practice" telegram group] [tg-group].
+Answers will be available after few days. 😁  
+Please note that the main language of the [telegram group] [tg-group] is Persian/Farsi.
 
-The answers will be add after some days 😁
-
-discuss group is available at [TelegramGroup](https://t.me/python_practice)
+[tg-group]: https://t.me/python_practice (Discussion group)
